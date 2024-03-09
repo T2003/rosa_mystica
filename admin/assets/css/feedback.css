@@ -1,0 +1,7 @@
+.message{
+border: 2px rgb(231, 231, 231) solid;
+padding: 1rem;
+border-radius: 5px;
+box-shadow:  0 0 50px rgb(201, 201, 201);
+margin: 1rem 0;
+}
